@@ -34,6 +34,8 @@ Built on **ROS 2**, the robot provides real-time processing of sensor data, auto
 - **Custom ROS 2 Nodes**: For metal detection, arm control, and localization.
 
 ## Getting Started
+![IMG_6963](https://github.com/user-attachments/assets/fefb2aa7-6ecb-41a8-910a-b22197e9611b)
+![IMG_8251](https://github.com/user-attachments/assets/ca91f3c4-6ffc-4bcd-9d53-442c39a9ee41)
 
 1. Clone the repository:
    ```bash
